@@ -27,7 +27,7 @@ To prevent models from simply predicting the majority class, the dataset undergo
 
 ---
 
-## 🧠 Models Developed
+## Models Developed
 
 The notebook implements and compares four different algorithms to identify the best performer:
 
@@ -42,7 +42,7 @@ The notebook implements and compares four different algorithms to identify the b
 
 ---
 
-## 📈 Results & Evaluation
+## Results & Evaluation
 
 The models were evaluated on the untouched **Test Set**. Because accuracy is a misleading metric for highly imbalanced data, **AUC (Area Under the ROC Curve)** and **Recall** were the primary focus. 
 
@@ -55,7 +55,7 @@ The models were evaluated on the untouched **Test Set**. Because accuracy is a m
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 This project is built using Python and is designed to run in a Jupyter Notebook environment like Google Colab.
 
